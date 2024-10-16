@@ -10,7 +10,7 @@ Notebook Inspiration - https://www.kaggle.com/code/waqi786/remote-work-mental-he
 
 Author - Waqir Ali
 
-**Dataset Information (from Kaggle) : **
+**Dataset Information (from Kaggle) :**
 
 Sources
 The dataset draws from a variety of sources to ensure a comprehensive understanding of the relationship between remote work and mental health. It incorporates responses from surveys distributed across social media platforms, professional networks, and online forums. These diverse channels helped capture a wide range of experiences and perspectives, enriching the dataset with valuable insights.
