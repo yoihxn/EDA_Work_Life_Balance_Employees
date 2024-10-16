@@ -3,8 +3,11 @@ Exploratory Data Analysis performed on a dataset of employees to understand the 
 
 **Credits:**
 Dataset from Kaggle - https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data
+
 Author - Waqir Ali
+
 Notebook Inspiration - https://www.kaggle.com/code/waqi786/remote-work-mental-health-eda
+
 Author - Waqir Ali
 
 **Dataset Information (from Kaggle) : **
